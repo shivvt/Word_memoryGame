@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+  font-family: 'Do Hyeon', sans-serif;
+  background-color: #5eaaa8;
+}
+
+
+
+
+
+.game-over{
+  background-color: #dd2c00;
+  background-image: url("images/sadfrog.png");
+  color: #fff;
+
+}
+
+
+.display-letter{
+  width: 40%;
+  font-size: 40px;
+  padding: 50px 50px;
+  border: 10px solid #404B69;
+  margin: 5rem auto 0;
+}
+.btn {
+  background: #59a0a8;
+  background-image: -webkit-linear-gradient(top, #59a0a8, #2059b0);
+  background-image: -moz-linear-gradient(top, #59a0a8, #2059b0);
+  background-image: -ms-linear-gradient(top, #59a0a8, #2059b0);
+  background-image: -o-linear-gradient(top, #59a0a8, #2059b0);
+  background-image: linear-gradient(to bottom, #59a0a8, #2059b0);
+  -webkit-border-radius: 19;
+  -moz-border-radius: 19;
+  border-radius: 19px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 31px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #96b6d9;
+  background-image: -webkit-linear-gradient(top, #96b6d9, #547ab0);
+  background-image: -moz-linear-gradient(top, #96b6d9, #547ab0);
+  background-image: -ms-linear-gradient(top, #96b6d9, #547ab0);
+  background-image: -o-linear-gradient(top, #96b6d9, #547ab0);
+  background-image: linear-gradient(to bottom, #96b6d9, #547ab0);
+  text-decoration: none;
+}
